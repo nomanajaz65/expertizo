@@ -1,0 +1,66 @@
+.position{
+     position: fixed;
+     position: sticky;
+     top: 10px;
+}
+
+.color{
+     background-image: url('./lap.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: white;
+}
+
+.size{
+     width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+.c{
+margin-left: 200px;
+}
+
+.s{
+     width:80px;
+     font-size: small;
+}
+.one{
+     display: flex;
+}
+
+.two{
+     margin-left: 80px;
+}
+
+.slider{
+     width: 400px;
+     margin-left: 130px;
+}
+.s{
+     width: 700px;
+}
+
+
+.info{
+     display: flex;
+     word-spacing: 40px;
+}
+
+.inf{
+     word-spacing: 0px;
+}
+.div{
+     margin-left: 30px;
+}
+
+.divone{
+     margin-left: 80px;
+}
